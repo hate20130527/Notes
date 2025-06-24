@@ -31,12 +31,12 @@
         e.g.: BOW-01
     - Summary: 簡短描述，但不會太抽象   
         e.g.: 驗證加入願望清單功能
-    - Preconditions: 可選的元素，執行前的條件   
+    - Preconditions: 可選的元素，執行前的條件/操作   
         e.g.: 使用者需要先登入   
-    - Steps: 操作步驟流程   
+    - Steps: 執行的操作/步驟流程   
         e.g.: 1. 開啟網站 2. 選擇商品 3. 加入願望清單    
-    - Postconditions: 可選的元素，恢復原狀  
-        e.g.: 從清單移除商品    
+    - Postconditions: 可選的元素，執行後的條件/操作  
+        e.g.: 從清單移除商品(恢復操作) 或 關閉視窗自動登出    
     - Expected Result: 預期結果     
         e.g.: 顯示成功訊息，且商品已加入願望清單中  
     - Actual Result: 實際結果   
