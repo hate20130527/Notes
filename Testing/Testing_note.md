@@ -63,3 +63,11 @@
         Step1. 打開瀏覽器選項       
         Step2. 更多工具     
         Step3. 開發人員工具 
+
+
+## 框架
+- [unittest](https://docs.python.org/3/library/unittest.html)
+- [pytest](https://docs.pytest.org/en/stable/)
+
+## 
+- [runoob-python](https://www.runoob.com/python/python-exceptions.html)
