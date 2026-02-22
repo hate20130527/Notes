@@ -6,6 +6,8 @@
 .
 ├── GENERAL
 │   └── git.md
+│   └── note-taking.md
+│   └── ...
 │
 ├── TESTING
 │   ├── testing notes.md
@@ -15,9 +17,11 @@
 ├── ML
 │   ├── LeeML2021.md
 │   └── IBM.md
+│   └── ...
 │
 ├── UX
 │   └── 3UX2024.md
+│   └── ...
 │
 └── README.md
 ```
