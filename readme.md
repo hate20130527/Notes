@@ -11,7 +11,6 @@
 │
 ├── TESTING
 │   ├── testing notes.md
-│   ├── testing terms.md
 │   └── ...
 │
 ├── ML

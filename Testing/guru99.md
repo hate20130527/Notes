@@ -1,0 +1,1 @@
+https://app.notion.com/p/Guru99-Free-Online-Tutorials-and-Business-Software-Reviews-30e7c9a3c687805cba79e60cae0a77bc?source=copy_link
